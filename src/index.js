@@ -26,7 +26,7 @@ let app = new App({
         lang: config.lang || query.lang || '_',
         id: config.id || query.id || '',
         api: config.api || api,
-        editEnabled: config.edit || !!query.edit,
+        editEnabled: config.edit === undefined ? !!query.edit : config.edit,
         rootPath: config.rootPath || '',
         initCollection: config.collection || null,
         initConfig: config.config || null

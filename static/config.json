@@ -1,0 +1,20 @@
+{
+    "credits": "<a href=\"https://twitter.com/allyoucanmap\">@allyoucanmap</a>",
+    "languages": [
+        {
+            "id": "_",
+            "label": "Default"
+        },
+        {
+            "id": "en",
+            "label": "English"
+        }
+    ],
+    "map": {
+        "center": [9.2, 45.45],
+        "zoom": 11,
+        "polygonStyle": {},
+        "lineStyle": {},
+        "lineSelectedStyle": {}
+    }
+}

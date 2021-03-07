@@ -1,0 +1,23 @@
+{
+  "name": "ug-map",
+  "author": "allyoucanmap",
+  "license": "ISC",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "snowpack": "^3.0.13"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-gl-draw": "^1.2.1",
+    "@snowpack/plugin-svelte": "^3.5.2",
+    "@turf/bbox": "^6.3.0",
+    "dompurify": "^2.2.6",
+    "maplibre-gl": ">=1.13.0-rc.1",
+    "marked": "^2.0.0",
+    "normalize.css": "^8.0.1",
+    "ol": "^6.5.0",
+    "svelte": "^3.32.1"
+  }
+}

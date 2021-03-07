@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px"
+	 height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Layer_1" display="none">
+	<g id="Layer_2" display="inline">
+	</g>
+	<g display="inline">
+		<path fill="#808080" d="M46.939,55.002H17.061C12.616,55.002,9,51.387,9,46.941V17.059c0-4.445,3.616-8.061,8.061-8.061h29.878
+			c4.443,0,8.062,3.616,8.062,8.061v29.882C55,51.387,51.384,55.002,46.939,55.002z M17.061,10.999
+			c-3.342,0-6.061,2.719-6.061,6.061v29.881c0,3.343,2.719,6.062,6.061,6.062h29.878c3.343,0,6.062-2.719,6.062-6.062V17.059
+			c0-3.342-2.719-6.061-6.062-6.061L17.061,10.999L17.061,10.999z"/>
+	</g>
+</g>
+<g id="Layer_2_1_">
+	<polygon fill="#FFFFFF" points="9,28.5 32,55.002 55,28.5 44.375,17.874 32,28.5 21.375,17.874 	"/>
+	<polygon stroke="#000000" stroke-miterlimit="10" points="21.614,43.034 42.387,43.034 32,55.002 	"/>
+	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="9,28.5 25.841,47.904 38.16,47.904 55,28.5 44.375,17.874 
+		32,28.5 21.375,17.874 	"/>
+	<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="55,28 44.375,17.374 44.375,8.998 
+		55,8.998 	"/>
+	<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="9,28 21.375,17.874 21.375,8.998 9,8.998 	
+		"/>
+	<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="21.375,8.998 44.375,8.998 44.375,17.874 
+		32,28.5 21.375,17.874 	"/>
+</g>
+</svg>

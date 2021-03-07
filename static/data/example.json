@@ -1,0 +1,10 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "iconSrc": "arch5v",
+        "title": { "_": "Empty" },
+        "content": { "_": "" }
+    },
+    "topics": [],
+    "features": []
+}

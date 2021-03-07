@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Livello_1">
+	<circle fill="none" stroke="#333333" stroke-width="1.3262" stroke-miterlimit="10" cx="115.907" cy="-31.64" r="9.54"/>
+	<circle fill="#333333" cx="115.908" cy="-31.64" r="1.241"/>
+	<circle fill="none" stroke="#333333" stroke-width="1.3262" stroke-miterlimit="10" cx="149.873" cy="-31.64" r="9.541"/>
+	<circle fill="#333333" cx="149.873" cy="-31.64" r="1.24"/>
+	<path fill="none" stroke="#333333" stroke-width="0.8062" stroke-miterlimit="10" d="M115.908-31.64
+		c0,0,1.374-13.771,26.367-13.771"/>
+	<path fill="none" stroke="#333333" stroke-width="0.8062" stroke-miterlimit="10" d="M150.236-31.64l-9.271-15.767
+		c0,0-0.652-1.024-0.4-1.277s1.949-0.335,1.949-0.638c0-0.451-0.674-2.989-1.613-2.989c-0.938,0-2.854,0-2.854,0"/>
+	
+		<line fill="none" stroke="#333333" stroke-width="1.3624" stroke-miterlimit="10" x1="138.045" y1="-52.311" x2="134.148" y2="-52.311"/>
+	
+		<line fill="none" stroke="#333333" stroke-width="0.8062" stroke-miterlimit="10" x1="115.908" y1="-31.64" x2="131.395" y2="-30.399"/>
+	
+		<line fill="none" stroke="#333333" stroke-width="1.6124" stroke-miterlimit="10" x1="132.1" y1="-30.399" x2="126.691" y2="-42.503"/>
+	<circle fill="#333333" cx="132.1" cy="-30.399" r="2.049"/>
+	
+		<line fill="none" stroke="#333333" stroke-width="0.8062" stroke-miterlimit="10" x1="133.174" y1="-30.006" x2="134.652" y2="-27.386"/>
+	
+		<line fill="none" stroke="#333333" stroke-width="1.3262" stroke-miterlimit="10" x1="133.174" y1="-27.386" x2="136.063" y2="-27.386"/>
+	
+		<line fill="none" stroke="#333333" stroke-width="0.8062" stroke-miterlimit="10" x1="126.691" y1="-42.503" x2="125.447" y2="-45.411"/>
+	<path fill="#333333" d="M127.818-46.861h-6.619c0,0-0.084,0.774,0.783,1.641c0.867,0.867,2.142-0.392,2.524-0.559
+		c0.384-0.168,3.312-0.392,3.312-0.392s0.483,0.336,0.483-0.335C128.302-47.177,127.818-46.861,127.818-46.861z"/>
+</g>
+<g id="Layer_2">
+	<polygon fill="#C0C0C0" points="19.697,50.124 44.309,50.124 44.309,31.044 35.693,31.044 35.693,41.666 28.305,41.666 
+		28.305,31.167 19.697,31.167 	"/>
+	<path fill="#C0C0C0" d="M17.233,13.877h7.572v3.979h4.671v-3.979h5.047v3.979h4.67v-3.979h7.572v12.185l-2.457,4.981h-8.615
+		c0,0-0.438-1.961-3.694-1.961c-3.258,0-3.694,2.083-3.694,2.083h-8.607l-2.464-5.104L17.233,13.877L17.233,13.877z"/>
+</g>
+</svg>

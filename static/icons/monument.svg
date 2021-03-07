@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<polygon fill="#231F20" stroke="#231F20" stroke-width="0.4368" stroke-miterlimit="10" points="61.227,47.387 35.475,62.254 
+		3.266,62.254 29.018,47.387 	"/>
+	<g>
+		<polygon fill="#231F20" points="28.891,50.949 15.438,58.717 34.854,58.717 48.308,50.949 		"/>
+		<polygon fill="#FFFFFF" points="28.891,45.064 15.438,52.832 34.854,52.832 48.308,45.064 		"/>
+		<rect x="15.438" y="52.832" fill="#FFFFFF" width="19.416" height="5.885"/>
+		<polygon fill="#231F20" points="34.854,58.717 48.308,50.949 48.308,45.064 34.854,52.832 		"/>
+		<polygon fill="none" stroke="#231F20" stroke-width="0.648" stroke-miterlimit="10" points="15.438,58.717 34.854,58.717 
+			48.308,50.949 48.308,45.064 28.891,45.064 15.438,52.832 		"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.364" stroke-miterlimit="10" x1="15.438" y1="52.832" x2="35.221" y2="52.832"/>
+	</g>
+	<polygon fill="#FFFFFF" stroke="#231F20" stroke-width="0.4368" stroke-miterlimit="10" points="46.455,43.926 36.212,49.84 
+		18.038,49.84 28.281,43.926 	"/>
+	<g>
+		<polygon fill="#231F20" points="30.55,44.605 22.895,49.025 33.942,49.025 41.597,44.605 		"/>
+		<polygon fill="#FFFFFF" points="30.55,41.258 22.895,45.678 33.942,45.678 41.597,41.258 		"/>
+		<rect x="22.895" y="45.678" fill="#FFFFFF" width="11.047" height="3.348"/>
+		<polygon fill="#231F20" points="33.942,49.025 41.597,44.605 41.597,41.258 33.942,45.678 		"/>
+		<polygon fill="none" stroke="#231F20" stroke-width="0.648" stroke-miterlimit="10" points="22.895,49.025 33.942,49.025 
+			41.597,44.605 41.597,41.258 30.55,41.258 22.895,45.678 		"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.364" stroke-miterlimit="10" x1="22.895" y1="45.678" x2="34.151" y2="45.678"/>
+	</g>
+	<polygon fill="#FFFFFF" stroke="#231F20" stroke-width="0.4368" stroke-miterlimit="10" points="39.852,40.658 34.253,43.891 
+		24.32,43.891 29.918,40.658 	"/>
+	<rect x="30.727" y="8.476" fill="#231F20" width="5.275" height="33.216"/>
+	<rect x="28.491" y="9.783" fill="#FFFFFF" width="5.274" height="33.215"/>
+	<polygon fill="#FFFFFF" points="28.491,9.783 30.727,8.476 36.002,8.476 33.765,9.783 	"/>
+	<polygon fill="#231F20" points="33.765,9.783 36.002,8.476 36.002,41.691 33.765,42.998 	"/>
+	<polygon fill="none" stroke="#231F20" stroke-width="0.4691" stroke-miterlimit="10" points="28.491,9.783 28.491,42.998 
+		33.765,42.998 36.002,41.691 36.002,8.476 30.727,8.476 	"/>
+	<line fill="none" stroke="#231F20" stroke-width="0.364" stroke-miterlimit="10" x1="28.491" y1="9.783" x2="34.12" y2="9.783"/>
+	<g>
+		<polygon fill="#231F20" points="30.774,5.295 24.133,9.129 33.718,9.129 40.359,5.295 		"/>
+		<polygon fill="#FFFFFF" points="30.774,2.39 24.133,6.225 33.718,6.225 40.359,2.39 		"/>
+		<rect x="24.133" y="6.225" fill="#FFFFFF" width="9.584" height="2.905"/>
+		<polygon fill="#231F20" points="33.718,9.129 40.359,5.295 40.359,2.39 33.718,6.225 		"/>
+		<polygon fill="none" stroke="#231F20" stroke-width="0.648" stroke-miterlimit="10" points="24.133,9.129 33.718,9.129 
+			40.359,5.295 40.359,2.39 30.774,2.39 24.133,6.225 		"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.364" stroke-miterlimit="10" x1="24.133" y1="6.225" x2="33.899" y2="6.225"/>
+	</g>
+	
+		<line fill="none" stroke="#231F20" stroke-width="0.2184" stroke-miterlimit="10" x1="31.306" y1="9.783" x2="31.306" y2="42.998"/>
+</g>
+</svg>

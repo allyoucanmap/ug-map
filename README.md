@@ -70,3 +70,8 @@ so you need to download manually the created ug-map and upload it in the static/
 ## Build
 
 - `yarn build`
+
+
+## Icons
+
+Icons used in this repository made by [lsnmst](https://twitter.com/lsnmst) are public domain (CC0 1.0)
